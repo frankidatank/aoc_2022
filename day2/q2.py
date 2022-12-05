@@ -1,8 +1,3 @@
-score_sign = {
-    'X': 1,
-    'Y': 2,
-    'Z': 3
-}
 
 res_sign = {
     'X': 'lose',
